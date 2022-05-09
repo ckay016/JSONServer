@@ -25,5 +25,53 @@
         "description":"Madara Uchiha was the legendary leader of the Uchiha clan. He founded Konohagakure alongside his childhood friend and rival, Hashirama Senju, with the intention of beginning an era of peace. When the two couldn't agree on how to achieve that peace, they fought for control of the village, a conflict which ended in Madara's death. Madara, however, rewrote his death and went into hiding to work on his own plans. Unable to complete it in his natural life, he entrusted his knowledge and plans to Obito shortly before his actual death. Years later, Madara would be revived, only to see his plans foiled and ultimately, and finally, realising the error of his ways and making amends with Hashirama before his final death.",
         "attributes":[{"key":"Clan","value":"Uchiha"},{"key":"Most Powerful Jutsu","value":"Transportation Jutsu"}],
         "image":"https://drive.google.com/uc?export=view&id=1y9riGGbqU_Aa58bpIvlPhy8c9XqpGsAv"
-    }
+    },
+    
+    "5.json": {
+          "name": "Blenheim Palace – North Door",
+          "description": "Blenheim Palace is a monumental country house in Woodstock, Oxfordshire, England. It is the principal residence of the Dukes of Marlborough, and the only non-royal, non-episcopal country house in England to hold the title of palace. The palace, one of England’s largest houses, was built between 1705 and 1722, and designated a UNESCO World Heritage Site in 1987.",
+          "attributes": [
+            {
+              "key": "Coin Alloy Name",
+              "value": "Nordic Gold"
+            },
+            {
+              "key": "Coin alloy Color",
+              "value": "Old Gold"
+            },
+            {
+                "key": "Coin Diameter",
+                "value": "31,00"
+            },
+            {
+                "key": "Coin Thickness",
+                "value": "2,25"
+            }
+          ],
+          "image": "https://drive.google.com/uc?export=view&id=1uALWGCiyDN78us3B-KT4VJTges3QSdp3"
+        },
+    
+    "6.json": {
+    "name": "Blenheim Palace – Winston Churchill",
+    "description": "Designed in the rare, and short-lived, English Baroque style, architectural appreciation of the palace is as divided today as it was in the 1720s. It is unique in its combined use as a family home, mausoleum and national monument. The palace is notable as the birthplace and ancestral home of Sir Winston Churchill. Sir Winston Churchill was born at Blenheim Palace in 1874. Grandson of the 7th Duke, he was also a close friend of the 9th Duke and Duchess. Winston spent a considerable amount of time at the Palace throughout his life and proposed to his wife Clementine in the Temple of Diana.",
+    "attributes": [
+      {
+        "key": "Coin Alloy Name",
+        "value": "Nordic Gold"
+      },
+      {
+        "key": "Coin alloy Color",
+        "value": "Old Gold"
+      },
+      {
+          "key": "Coin Diameter",
+          "value": "31,00"
+      },
+      {
+          "key": "Coin Thickness",
+          "value": "2,25"
+      }
+    ],
+    "image": "https://drive.google.com/uc?export=view&id=1VDckxPN5AnSB8WYmoJDkFnKEBgaLCm_p"
+  }
 }
